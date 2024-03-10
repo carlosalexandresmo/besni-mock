@@ -211,7 +211,6 @@
       {
         "JroCalSldDev": "0.00",
         "JroMra": "0.00",
-        "LinhaDigitavel": "03399.00870 41900.000005 10011.001012 4 96100000001030",
         "Movimentos": [
           {
             "AntecipacaoId": "0",
@@ -358,11 +357,6 @@
         "PagamentoMinimo": "0.00",
         "Saldo": "0.00",
         "SaldoInicial": "10.30",
-        "SdtPixDadosCopiaCola": {
-          "Emv": "",
-          "ImgB64": "",
-          "Lnk": ""
-        },
         "Tipo": "Aberto",
         "ValorTotal": "0.00",
         "Vencimento": "2024-02-06",
