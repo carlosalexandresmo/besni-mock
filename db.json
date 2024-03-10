@@ -1,0 +1,68 @@
+{
+  "dados_conta": {
+    "Retorno": {
+      "AlertaVersao": "0",
+      "Chave": "hdqvtdZAVE3Pa3o7Qjz8KczGmSVd/AzbxCDZeGns05ioT31ImNUs5YHTnEza2G8+QagMuhHI/9CkDuqIadxkKLLPkEDmF0cE7ZmlqHmA/7EAAbD/ofW600t8Rbr+V4ptB17B5tTzK61inhxjfxFYXJ5YcElExbivB2yz2A1PM1SeWHBJRMW4rwdss9gNTzNUnlhwSUTFuK8HbLPYDU8zVEbLTexOv2NrQjyWqy3jd/+eWHBJRMW4rwdss9gNTzNUnlhwSUTFuK8HbLPYDU8zVJ5YcElExbivB2yz2A1PM1R9zbmL5culfl99m2gHj0P4OtXUHjDag+8EAjyMPp9IW8QCOQAadkQKc03WrPfahcGrFavWwc5HSB0KV1EPRLStzRHGPXFYvkS/qjlG+NYjig==",
+      "Codigo": "00",
+      "Descricao": "Processo executado com sucesso"
+    },
+    "RetornoDadosConta": {
+      "AbertoExtratoData": "2024-03-06",
+      "Bairro": "",
+      "BloqueiaAcesso": "N",
+      "Bloqueios": [],
+      "CEP": "",
+      "CatCod": 0,
+      "Cidade": "",
+      "CodigoFilial": 32,
+      "CodigoRede": "50",
+      "Complemento": "",
+      "CompraDia": "27",
+      "DDDCelular": "",
+      "DDDTelefone": "",
+      "DisponivelDobro": "800.00",
+      "DisponivelParcelado": "0.00",
+      "DisponivelRotativo": "800.00",
+      "Endereco": "",
+      "Estado": "",
+      "IndBloqueio": false,
+      "IndBloqueioCompEmissao": false,
+      "IndBloqueioCompLimite": false,
+      "IndConvenio": false,
+      "IndicadorCobranca": 0,
+      "LimiteOverlimit": "800.00",
+      "LimiteParcelado": "0.00",
+      "LimiteRotativo": "800.00",
+      "NomeCliente": "VANESSA DE ALMEIDA",
+      "NomeFilial": "LOJAS BELIAN MODA LTDA.",
+      "NomeRede": "LOJAS BELIAN LTDA.",
+      "Numero": "",
+      "NumeroCelular": "",
+      "NumeroConta": "019032021302",
+      "NumeroPlastico": "0190320213020163",
+      "NumeroTelefone": "",
+      "Plastico": [
+        {
+          "NomePlastico": "Vanessa De Almeida",
+          "NumeroPlastico": "0190320213020163",
+          "PlasticoLimite": "0.00",
+          "PlasticoSaldo": "0.00",
+          "TitularIndicador": true
+        }
+      ],
+      "PontosExpirar": "0",
+      "PontosExpirarData": "2000-01-01",
+      "PontosTotal": "0",
+      "SaldoDevedor": "0.00",
+      "Seguros": [],
+      "SenhaForaPadrao": false,
+      "TipoConta": "Cartão",
+      "UltimoExtratoData": "2024-02-06",
+      "VencimentoDia": "06",
+      "limiteOverLimitDobro": "0.00",
+      "utilizadoParcelado": "0.00",
+      "utilizadoRotativo": "0.00",
+      "utilizadoRotativoDobro": "0.00"
+    }
+  }
+}
