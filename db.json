@@ -1,9 +1,6 @@
 {
   "dados_conta": {
     "Retorno": {
-      "AlertaVersao": "0",
-      "Chave": "hdqvtdZAVE3Pa3o7Qjz8KczGmSVd/AzbxCDZeGns05ioT31ImNUs5YHTnEza2G8+QagMuhHI/9CkDuqIadxkKLLPkEDmF0cE7ZmlqHmA/7EAAbD/ofW600t8Rbr+V4ptB17B5tTzK61inhxjfxFYXJ5YcElExbivB2yz2A1PM1SeWHBJRMW4rwdss9gNTzNUnlhwSUTFuK8HbLPYDU8zVEbLTexOv2NrQjyWqy3jd/+eWHBJRMW4rwdss9gNTzNUnlhwSUTFuK8HbLPYDU8zVJ5YcElExbivB2yz2A1PM1R9zbmL5culfl99m2gHj0P4OtXUHjDag+8EAjyMPp9IW8QCOQAadkQKc03WrPfahcGrFavWwc5HSB0KV1EPRLStzRHGPXFYvkS/qjlG+NYjig==",
-      "Codigo": "00",
       "Descricao": "Processo executado com sucesso"
     },
     "RetornoDadosConta": {
@@ -67,9 +64,6 @@
   },
   "dados_extrato": {
     "Retorno": {
-      "AlertaVersao": "0",
-      "Chave": "cTOzR+o6dGPvv2nk02xI/NYtzwzaU43gP48ZJRkNfCr+UmiwEWHKHJK3S9tqDUWmuMAum8Kw6xSKiiG7Ht546jB9a9pWtrzxpQAO2wx/kIzROPkGn/dWE6oZ+tzfgbsPB17B5tTzK61inhxjfxFYXJ5YcElExbivB2yz2A1PM1SeWHBJRMW4rwdss9gNTzNUnlhwSUTFuK8HbLPYDU8zVEbLTexOv2NrQjyWqy3jd/+eWHBJRMW4rwdss9gNTzNUnlhwSUTFuK8HbLPYDU8zVJ5YcElExbivB2yz2A1PM1R9zbmL5culfl99m2gHj0P4OtXUHjDag+8EAjyMPp9IW8QCOQAadkQKc03WrPfahcEE3ogXtCDOnNlIyAgp5tIomnlrBZqoF/3Hf31eEo4Eaw==",
-      "Codigo": "00",
       "Descricao": "Processo executado com sucesso"
     },
     "RetornoExtrato": [
